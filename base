@@ -3,10 +3,6 @@ apiVersion: v1
 metadata:
   name: holamundo
   namespace: devops-build
-  selfLink: /api/v1/namespaces/devops-build/configmaps/holamundo
-  uid: 7323d831-2753-4038-9032-7454cba94941
-  resourceVersion: '175344104'
-  creationTimestamp: '2020-10-26T17:24:37Z'
 data:
   valor3: uno
   
