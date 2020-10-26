@@ -1,0 +1,28 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2020-10-26T17:24:37Z"
+  managedFields:
+  - apiVersion: v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:data:
+        f:variable2: {}
+    manager: Mozilla
+    operation: Update
+    time: "2020-10-26T18:00:47Z"
+  - apiVersion: v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:data:
+        .: {}
+        f:variable1: {}
+    manager: oc
+    operation: Update
+    time: "2020-10-26T19:07:42Z"
+  name: holamundo
+  namespace: devops-build
+  resourceVersion: "175328817"
+  selfLink: /api/v1/namespaces/devops-build/configmaps/holamundo
+  uid: 7323d831-2753-4038-9032-7454cba94941
+data:
