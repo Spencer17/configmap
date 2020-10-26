@@ -24,5 +24,4 @@ metadata:
   namespace: devops-build
   resourceVersion: "175328817"
   selfLink: /api/v1/namespaces/devops-build/configmaps/holamundo
-  uid: 7323d831-2753-4038-9032-7454cba94941
 data:
