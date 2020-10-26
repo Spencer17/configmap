@@ -1,7 +1,7 @@
 kind: ConfigMap
 apiVersion: v1
 metadata:
-  name: holamundo
-  namespace: devops-build
+  name: basename
+  namespace: basespace
 data:
   valor3: uno
