@@ -4,4 +4,3 @@ metadata:
   name: basename
   namespace: basespace
 data:
-  valor3: uno
